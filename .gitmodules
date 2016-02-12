@@ -1,6 +1,0 @@
-[submodule "plugins/PySlackNumberBot"]
-	path = plugins/PySlackNumberBot
-	url = https://github.com/jamestenglish/PySlackNumberBot
-[submodule "plugins/PySlackRespectBot"]
-	path = plugins/PySlackRespectBot
-	url = https://github.com/jamestenglish/PySlackRespectBot
